@@ -167,3 +167,9 @@ En cas de valeur incorrecte, la fonction affiche un message d'erreur à l'aide d
 L'objectif de **NumIntegrR** est de proposer un outil simple permettant d'explorer et de comparer différentes méthodes d'intégration numérique.
 
 Ce projet illustre le lien entre un concept mathématique, sa programmation en R et son utilisation pratique dans un environnement scientifique ou d'ingénierie.
+
+## Author
+
+**Motsebo Pires**
+
+Developer of the **NumIntegrR** package.
